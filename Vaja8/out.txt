@@ -1,0 +1,7 @@
+width = 3840, height=2160 
+Program size = 1129 B 
+global size = 3328,851968 
+
+
+Used time on CPU: 0.01282 
+Time used on GPU: 0.00044 

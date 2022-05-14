@@ -1,0 +1,7 @@
+Sirina: 640  visina: 480  
+Program size = 4148 B 
+global size = 640,480 
+
+
+Kernel Execution time is: 0.000000 milliseconds 
+Time consumed on GPU: 0.014812s  
